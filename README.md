@@ -11,8 +11,6 @@ I'm a full-stack developer exploring React, MERN stack, Python, Java, and C. Cur
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu7437&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu7437&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu7437&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
