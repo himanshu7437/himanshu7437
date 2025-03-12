@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer exploring React, MERN stack, Python, Java, and C. Currently participating in hackathons to learn new skills and grow as a developer. Always curious and building cool stuff — let's connect! 🚀
+I'm a Frontend developer exploring React, MERN stack, Python, Java, and C. Currently participating in hackathons to learn new skills and grow as a developer. Always curious and building cool stuff — let's connect! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/himanshu_7437) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu7437) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu7437) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himanshu7437)
