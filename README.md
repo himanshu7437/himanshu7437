@@ -4,7 +4,7 @@ I'm a passionate Frontend Developer with hands-on experience in **React**, the *
 
 Always curious, always building — whether it's a side project, a tech experiment, or a team challenge. Let's connect and create something awesome together! 🚀
 
-<br/> <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUxc2Q2aWg4ZHhhc3BvM21lMGk2cHJzaTVnNm4wZGFxaXIzdzZqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="360" alt="Coding GIF"> </p>
+<br/> <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21haWZubWFyaDViMnh4a3JtZXd1Y3J1aGFyaGlwdjVtNzZkaGN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Coding GIF"> </p>
 
 
 
