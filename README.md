@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm a passionate Frontend Developer with hands-on experience in **React**, the **MERN stack**, **Python**, **Java**, and **C**. Currently diving into hackathons to sharpen my skills, collaborate with others, and turn ideas into real-world solutions.
+I'm a passionate Fullstack Web Developer with hands-on experience in **React**, the **MERN stack**, **Python**, and **Java**. Currently diving into hackathons to sharpen my skills, collaborate with others, and turn ideas into real-world solutions.
 
 Always curious, always building — whether it's a side project, a tech experiment, or a team challenge. Let's connect and create something awesome together! 🚀
 
